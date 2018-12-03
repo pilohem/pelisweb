@@ -94,7 +94,7 @@
     <hr>
     <footer class="footer text-center" style="padding-bottom: 15px";>
       <div class="container">
-        <span class="text-muted">Copyright &copy; PELISWEB | IA Interactive</span>
+        <span class="text-muted">Copyright &copy; PELISWEB | CompanyName</span>
       </div>
     </footer>
     {{-- <footer class="text-center" id="footer">Copyright &copy; PELISWEB</footer> --}}
